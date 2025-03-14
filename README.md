@@ -1,4 +1,4 @@
-# 🔒 VeyonCTL - Take Control of Your Privacy
+# 🔒VeyonCTL - Take Control of Your Privacy
 
 `VeyonCTL` is a simple .NET CLI tool designed to manage the `VeyonService` on Windows. With this tool, you can easily stop or disable the `VeyonService` to ensure you're not being spied on without your consent. ✋👀
 
@@ -6,7 +6,7 @@
 
 ## ⚠️ Important Notice
 
-- **You need administrative privileges** 🛡️ to run this tool.  
+- **You need administrative privileges** to run this tool.  
   If you're not an admin on your computer, you won't be able to use `VeyonCTL`. Make sure to open the command prompt as an administrator.
 - **Intended for ethical use**: If you’re using this tool, ensure you’re within your rights to manage the Veyon service on your device. Misuse of this tool is discouraged.
 
@@ -20,10 +20,10 @@ To use this tool:
 ---
 
 ## 🌟 Features
-- ✅ **Start** the `VeyonService` when you need it.
-- ✅ **Stop** the service to prevent unwanted surveillance.
-- ✅ **Enable** the service to allow Veyon to start automatically.
-- ✅ **Disable** the service to prevent it from starting automatically.
+- **Start** the `VeyonService` when you need it.
+- **Stop** the service to prevent unwanted surveillance.
+- **Enable** the service to allow Veyon to start automatically.
+- **Disable** the service to prevent it from starting automatically.
 
 ---
 
@@ -31,9 +31,9 @@ To use this tool:
 
 [Veyon](https://github.com/veyon/veyon) is a powerful tool used in schools to monitor and manage classroom computers. While it can be helpful for educators, students may feel uncomfortable being monitored when it's not necessary. With `VeyonCTL`, you can manage the `VeyonService` on your terms:
 
-- 🔐 **Ensure privacy** during personal use of your computer.
-- 🔄 **Enable the service** when required in the classroom.
-- ❌ **Disable it** when you want to guarantee no background monitoring.
+- **Ensure privacy** during personal use of your computer.
+- **Enable the service** when required in the classroom.
+- **Disable it** when you want to guarantee no background monitoring.
 
 ---
 
